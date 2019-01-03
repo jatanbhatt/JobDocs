@@ -1,2 +1,7 @@
-Jatan Bhatt_Transcript.pdf
-Jatan Bhatt_Letter Of Recommendation.pdf
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!Resume_Generic
+!Cover Letter_Generic
