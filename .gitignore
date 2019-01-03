@@ -3,5 +3,6 @@
 
 # Except these
 !.gitignore
-!Resume_Generic
-!Cover Letter_Generic
+!Resume_Generic.pdf
+!Cover Letter_Generic.pdf
+!README.md
